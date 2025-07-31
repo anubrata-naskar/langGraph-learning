@@ -1,6 +1,6 @@
 # 🚀 LangGraph Learning Project
 
-Master AI workflows with hands-on examples covering all LangGraph patterns - Sequential, Conditional, Iterative, and Parallel processing using Google Gemini AI.
+Master AI workflows with hands-on examples covering all LangGraph patterns - Sequential, Conditional, Iterative, and Parallel processing and many more using Google Gemini AI.
 
 ## 📖 Overview
 Complete learning repository with 8 interactive Jupyter notebooks demonstrating real-world AI agent architectures, from basic workflows to advanced multi-agent systems.
